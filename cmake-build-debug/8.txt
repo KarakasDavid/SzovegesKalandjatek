@@ -1,0 +1,11 @@
+*8
+H10
+E5
+I0
+@9
+|Kitárod az ablakokat és kis kétkedés után leveted magad az ablakból. Nagy csattanással érsz földet, éscsúnyán beütöda lábad, de sikerült kiszöknöd az épületbõl.
+|Gyorsan körbenézel, hogy merre tudnál menni. A sikátor egyik vége egy falba végzõdik,így megfordulsz és szembetalálod magad egy marcona kinézetûemberrel.
+|"Nocsak nocsak csak nem szökni próbálunk"  morogja még mielõtt rádvetné magát.
+|Meg kellküzdened vele. Ha nyersz lapozz a 9-re.
+|
+_

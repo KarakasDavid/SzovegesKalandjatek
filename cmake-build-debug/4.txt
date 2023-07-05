@@ -1,0 +1,13 @@
+*4
+H0
+E0
+I0
+@7
+@3
+|Hallgatod a kétférfi beszélgetését az ajtó elõtt, amíg a társalgásukat nem szakítja meg lépcsõfokok nyikorgása.
+|A két pasas gyorsan elhallgat. Pár másodperc múlva egy harmadik hang szólal meg.
+|"Ugye minden rendben van odabent, a fõnök kétperc múlva itt lesz, hogy elintézze a dolgot. Nem akarok semmiféle problémát értve vagyok?"
+|Nem várod meg a választ, gyorsan elhátrálsz. Gyorsan jár az eszed, gondolkodva a következõ lépésen.
+|Ha megpróbálod kinyitni az ajtót lapozz a 7-ra.
+|Ha körülnézel a szobában lapozz a 3-ra.
+_

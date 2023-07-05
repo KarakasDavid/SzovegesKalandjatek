@@ -1,0 +1,9 @@
+*10
+H0
+E0
+I0
+@0
+|Sajnos a játékos idõnek vége. Sajnálom, hogy nem sikerült elmenekülnöd, de hé, majd legközelebb.
+|Köszönöm, hogy kipróbáltad a játékom. Minden visszajelzésnek örülök.
+|Vége!
+_

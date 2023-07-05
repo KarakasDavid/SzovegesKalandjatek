@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="yay" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/yay" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/yay" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="1.txt" />
+		<Unit filename="10.txt" />
+		<Unit filename="11.txt" />
+		<Unit filename="2.txt" />
+		<Unit filename="3.txt" />
+		<Unit filename="4.txt" />
+		<Unit filename="5.txt" />
+		<Unit filename="6.txt" />
+		<Unit filename="7.txt" />
+		<Unit filename="8.txt" />
+		<Unit filename="9.txt" />
+		<Unit filename="almodu_adat.h" />
+		<Unit filename="almodul_adat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="almodul_csata.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="almodul_csata.h" />
+		<Unit filename="almodul_kiiras.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="almodul_kiiras.h" />
+		<Unit filename="almodul_menuk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="almodul_menuk.h" />
+		<Unit filename="debugmalloc.h" />
+		<Unit filename="kalandjatek.cbp" />
+		<Unit filename="kalandjatek.layout" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

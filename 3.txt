@@ -1,0 +1,14 @@
+*3
+H0
+E0
+I0
+@5
+@6
+@2
+|Ovatosan elkezded körüljárni a szobát. Rájössz, hogy egy padlástérben vagy, a falakat mindenhol pókháló fedi, régi törött bútorok hevernek mindenfele.
+|Találsz egy bedeszkázott ablakot, amin halványan süt be a Hold fénye. A deszkák nincsenek nagyon erõsen rászerelve, talán le lehetne õket feszíteni.
+|Ahogy átkutatod a termet észreveszel egy holttestek a sarokban. Egy pillanatra megíjedsz tõle, de aztán rájössz, ha gyorsan nem találsz ki valamit, valószínûleg te is így fogod végezni.
+|Ha szeretnéd átkutatni a holttestet lapozz az 5-re.
+|Ha megpróbálod lefeszegetni az ablakról a deszkákatlapozz a 6-ra.
+|Ha megpróbálsz hallgatózni, hogy mirõl beszélnek kint lapozz a 2-re.
+_

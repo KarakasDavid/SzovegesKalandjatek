@@ -1,0 +1,15 @@
+*2
+H0
+E0
+I0
+@7
+@3
+@4
+|Ha hallgatóztál már lapozz a 4-re.
+|Kicsit közelebb botladozol az ajtóhoz és hallgatózol. Két férfi hangot hallasz, amint éppen egy nõröl beszélgetnek akit az egyik kocsmában láttak, 
+|sajnos nem ismered fel a hangjukat, de nem úgy néz ki mint akik különösebb figyelmet
+|szentelnének arra, hogy te mit csinálsz bent. Hallgatózás közben észreveszed, hogy az ajtó nincsen bezárva.
+|Ha megpróbálod kinyitni az ajtót lapozz a 7-ra.
+|Ha körülnézel a szobában lapozz a 3-ra.
+|Ha tovább halgatózol lapozz a 4-re.
+_

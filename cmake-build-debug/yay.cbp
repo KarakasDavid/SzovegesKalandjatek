@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="yay"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yay">
+				<Option output="C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/yay.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/KarakasDávid/Documents/kalandjáték/yay/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 yay"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yay/fast">
+				<Option output="C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/yay.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/KarakasDávid/Documents/kalandjáték/yay/."/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2023.1.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 yay/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/KarakasDávid/Documents/kalandjáték/yay/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodu_adat.h">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodul_adat.c">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodul_csata.c">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodul_csata.h">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodul_kiiras.c">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodul_kiiras.h">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodul_menuk.c">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/almodul_menuk.h">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/debugmalloc.h">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/main.c">
+			<Option target="yay"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/1.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/10.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/11.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/2.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/3.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/4.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/5.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/6.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/7.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/8.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/9.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/KarakasDávid/Documents/kalandjáték/yay/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

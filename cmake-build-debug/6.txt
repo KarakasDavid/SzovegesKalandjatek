@@ -1,0 +1,13 @@
+*6
+H0
+E0
+I0
+@8
+@5
+@4
+|A deszkalapok korhadtak és könnyen le tudod õket szakítani a helyükrõl különösebb hangzavar nélkül.
+|Most egy mocskos ablak tárul eléd. A látvány alátámasztja a feltételezésed miszerint egy padlástérben vagy. Alattad egy sikátor fut ésveszik bele a ködbe.
+|Úgy gondolod meglehetne próbálni kiugrani az ablakon, bár azért a magasság kicsit aggasztó, ha ellenben mégis megpróbálod lapozz a 8-ra.
+|Ha szeretnéd átkutatni a holttestet lapozz az 5-re.
+|Ha megpróbálsz hallgatózni, hogy mirõl beszélnek kint lapozz a 4-re.
+_
